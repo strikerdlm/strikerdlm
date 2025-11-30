@@ -47,7 +47,7 @@ class AerospaceMedicineResearcher:
             "acceleration_physiology": "G-LOC prevention through modeling",
             "altitude_medicine": "Hypobaric hypoxia, Normobaric hypoxia",
             "cardiovascular_monitoring": "HRV analysis, HRF, workload biomarkers",
-            "chronobiology": "Circadian modeling, fatigue modeling management",
+            "chronobiology": "Circadian modeling, fatigue modeling & management",
             "human_machine_interface": "Adaptive automation, cognitive load"
         }
         
