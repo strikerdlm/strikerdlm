@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Pushing+human+limits+in+extreme+environments;Building+physiological+monitoring+systems;From+hypoxia+chambers+to+G-force+centrifuges;Bridging+medicine+%26+aerospace+with+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Pushing+human+limits+in+extreme+environments;Building+physiological+monitoring+systems;From+hybobaric+chambers+to+mathematical+models+in+physiology;Bridging+medicine+%26+aerospace+with+code+and+artificial+intelligence)](https://git.io/typing-svg)
 
 <!-- Quick profile badges -->
 <p>
