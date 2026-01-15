@@ -102,7 +102,7 @@ class AsterPhysiology_Lead:
 </td>
 <td width="50%">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=strikerdlm&theme=tokyonight&hide_border=true&background=1a1b26&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=c9d1d9&dates=8b949e)
+![GitHub Streak](https://streak-stats.demolab.com?user=strikerdlm&theme=tokyonight&hide_border=true&background=1a1b26&currStreakLabel=00FFFF)
 
 </td>
 </tr>
