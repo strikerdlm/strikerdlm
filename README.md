@@ -160,6 +160,16 @@ class AsterPhysiology_Lead:
 
 ---
 
+## 📊 Research Data Telemetry
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/strikerdlm/strikerdlm/main/github-metrics.svg" alt="Metrics" width="100%">
+
+</div>
+
+---
+
 ## 🚀 Research Frontiers
 
 <div align="center">
