@@ -92,21 +92,11 @@ class AsterPhysiology_Lead:
 
 <br/>
 
-<!-- Stats Cards Row -->
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=strikerdlm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&count_private=true&include_all_commits=true)
 
-</td>
-<td width="50%">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=strikerdlm&theme=tokyonight&hide_border=true&background=1a1b26&currStreakLabel=00FFFF)
-
-</td>
-</tr>
-</table>
+</div>
 
 <!-- Language Stats -->
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strikerdlm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=00FFFF&text_color=c9d1d9&langs_count=10)
