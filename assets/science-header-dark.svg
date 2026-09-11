@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Observe. Model. Build.</title>
+  <desc id="desc">A static, conceptual illustration of orbital geometry, a physiological signal and code brackets. Decorative artwork, not recorded data.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 H 0 V 40" fill="none" stroke="#182C3C" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="#0C1724"/>
+    <rect x="700" width="500" height="320" fill="url(#grid)"/>
+    <path d="M56 62 H110" stroke="#68DDCB" stroke-width="4"/>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">
+      <text x="52" y="146" fill="#F0F5F8">Observe.</text>
+      <text x="52" y="235" fill="#68DDCB">Model. Build.</text>
+    </g>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="960" cy="160" r="111" stroke="#557D91" stroke-width="1.5"/>
+      <circle cx="960" cy="160" r="80" stroke="#182C3C" stroke-width="1.5" stroke-dasharray="3 9"/>
+      <ellipse cx="960" cy="160" rx="154" ry="53" transform="rotate(-34 960 160)" stroke="#68DDCB" stroke-width="1.6"/>
+      <ellipse cx="960" cy="160" rx="136" ry="42" transform="rotate(48 960 160)" stroke="#557D91" stroke-width="1.2"/>
+      <path d="M960 29 V44 M960 276 V291 M829 160 H844 M1076 160 H1091" stroke="#557D91" stroke-width="1.5"/>
+      <path d="M783 167 H865 L877 162 L890 167 H908 L920 179 L935 119 L952 201 L967 158 L982 167 H996 Q1010 148 1026 167 H1135" stroke="#0C1724" stroke-width="13"/>
+      <path d="M783 167 H865 L877 162 L890 167 H908 L920 179 L935 119 L952 201 L967 158 L982 167 H996 Q1010 148 1026 167 H1135" stroke="#A8D8ED" stroke-width="3.5"/>
+      <path d="M757 80 L739 97 L757 114 M787 80 L805 97 L787 114 M776 75 L767 120" stroke="#557D91" stroke-width="2"/>
+      <path d="M1124 235 H1144 V255 M776 257 H756 V237" stroke="#557D91" stroke-width="1.5"/>
+    </g>
+    <circle cx="1088" cy="78" r="7" fill="#68DDCB"/>
+    <circle cx="867" cy="258" r="4" fill="#A8D8ED"/>
+    <circle cx="960" cy="49" r="3" fill="#557D91"/>
+  </g>
+</svg>
